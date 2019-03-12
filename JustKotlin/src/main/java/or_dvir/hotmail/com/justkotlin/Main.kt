@@ -7,19 +7,20 @@ class Main
         @JvmStatic
         fun main(args: Array<String>)
         {
-            println(solution(intArrayOf(-1,-3)))
+            println(solution(intArrayOf(-1, -3)))
         }
 
+        @Suppress("MemberVisibilityCanBePrivate")
         fun solution(a: IntArray): Int
         {
             //return smallest positive integer which is NOT in "a"
-            //a may have duplicates - DONE
-            //a may have negative numbers - DONE
-            //0 is NOT positive - DONE
+            //a may have duplicates
+            //a may have negative numbers
+            //0 is NOT positive
             //max size of array is 100,000 elements
+            //each element is between -1,000,000 and 1,000,000
 
-            //sort the array
-            val updatedList = a.filter { it > 0 }.distinct().sorted()
+            val updatedList = a.filter { it > 0 }.distinct().toHashSet()
 
             for (i in 1..100_000)
             {
