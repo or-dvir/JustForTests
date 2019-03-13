@@ -1,1 +1,1 @@
-include ':app', ':JustKotlin'
+include ':app', ':JustForTests'
