@@ -1,4 +1,4 @@
-package or_dvir.hotmail.com.justkotlin
+package or_dvir.hotmail.com.justfortests
 
 class MainKotlin
 {
