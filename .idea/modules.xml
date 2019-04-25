@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/JustForTests.iml" filepath="$PROJECT_DIR$/JustForTests.iml" />
-=======
       <module fileurl="file://$PROJECT_DIR$/AndroidStudioProjects-JustForTests.iml" filepath="$PROJECT_DIR$/AndroidStudioProjects-JustForTests.iml" />
->>>>>>> 12155e19adc859b0ab98adf67699a1b9f93c306d
       <module fileurl="file://$PROJECT_DIR$/JustForTests/JustForTests-JustForTests.iml" filepath="$PROJECT_DIR$/JustForTests/JustForTests-JustForTests.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
