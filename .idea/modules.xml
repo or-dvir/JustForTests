@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidStudioProjects-JustForTests.iml" filepath="$PROJECT_DIR$/AndroidStudioProjects-JustForTests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JustForTests.iml" filepath="$PROJECT_DIR$/JustForTests.iml" group="JustForTests" />
       <module fileurl="file://$PROJECT_DIR$/JustForTests/JustForTests-JustForTests.iml" filepath="$PROJECT_DIR$/JustForTests/JustForTests-JustForTests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/JustForTests-app.iml" filepath="$PROJECT_DIR$/app/JustForTests-app.iml" group="JustForTests/app" />
+      <module fileurl="file://$PROJECT_DIR$/JustForTests/androidStudioProjects-JustForTests-JustForTests.iml" filepath="$PROJECT_DIR$/JustForTests/androidStudioProjects-JustForTests-JustForTests.iml" group="JustForTests/JustForTests" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
