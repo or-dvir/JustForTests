@@ -3,6 +3,7 @@ apply plugin: 'kotlin'
 
 repositories {
     mavenCentral()
+    google()
 }
 
 dependencies {
